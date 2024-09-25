@@ -38,20 +38,19 @@ src="https://img.shields.io/github/followers/bachaWondimu?logo=github&style=for-
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="36" height="36" alt="Hadoop" /></a>
-<a href="https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36" height="36" alt="HDFS" /></a>
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="36" height="36" alt="Hadoop" /></a>
 <a href="https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-hdfs-apache-software-foundation-soft-fill-soft-fill-juicy-fish.png" width="36" height="36" alt="HDFS" /></a>
 <a href="https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-yarn-apache-software-foundation-soft-fill-soft-fill-juicy-fish.png" width="36" height="36" alt="YARN" /></a>
 <a href="https://sqoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/60/000000/sqoop.png" width="36" height="36" alt="Sqoop" /></a>
 <a href="https://flume.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/flume.png" width="36" height="36" alt="Flume" /></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="36" height="36" alt="Spark" /></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="36" height="36" alt="Kafka" /></a>
-<a href="https://hbase.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-hbase-apache-software-foundation-soft-fill-soft-fill-juicy-fish.png" width="36" height="36" alt="HBase" /></a>
-<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-hive-apache-software-foundation-soft-fill-soft-fill-juicy-fish.png" width="36" height="36" alt="Hive" /></a>
-<a href="https://pig.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-pig-apache-software-foundation-flat-flat-juicy-fish.png" width="36" height="36" alt="Pig" /></a>
+<a href="https://hbase.apache.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/18350557/235369579-b9d8e108-d96a-405e-9e41-839a9bf246cd.png" width="36" height="36" alt="HBase" /></a>
+<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/18350557/235369707-9478e6d4-d9ac-46e3-a191-c93212659e68.png" width="36" height="36" alt="Hive" /></a>
+<a href="https://pig.apache.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/18350557/235369603-152bb1bc-3589-48b7-91d4-cddf772bd7cf.png" width="36" height="36" alt="Pig" /></a>
 <a href="https://avro.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/avro.png" width="36" height="36" alt="Avro" /></a>
 <a href="https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduce.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36" height="36" alt="MapReduce" /></a>
 </p>
+
 
 
 
