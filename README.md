@@ -48,7 +48,6 @@ src="https://img.shields.io/github/followers/bachaWondimu?logo=github&style=for-
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/18350557/235369707-9478e6d4-d9ac-46e3-a191-c93212659e68.png" width="36" height="36" alt="Hive" /></a>
 <a href="https://pig.apache.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/18350557/235369603-152bb1bc-3589-48b7-91d4-cddf772bd7cf.png" width="36" height="36" alt="Pig" /></a>
 <a href="https://avro.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/avro.png" width="36" height="36" alt="Avro" /></a>
-<a href="https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduce.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36" height="36" alt="MapReduce" /></a>
 </p>
 
 
