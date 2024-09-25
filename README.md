@@ -39,9 +39,6 @@ src="https://img.shields.io/github/followers/bachaWondimu?logo=github&style=for-
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="36" height="36" alt="Hadoop" /></a>
 <a href="https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="36" height="36" alt="HDFS" /></a>
-### Skills
-
-<p align="left">
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="36" height="36" alt="Hadoop" /></a>
 <a href="https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-hdfs-apache-software-foundation-soft-fill-soft-fill-juicy-fish.png" width="36" height="36" alt="HDFS" /></a>
 <a href="https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-yarn-apache-software-foundation-soft-fill-soft-fill-juicy-fish.png" width="36" height="36" alt="YARN" /></a>
